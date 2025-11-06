@@ -1,4 +1,4 @@
-Kood Notes Tool
+simple-CLI-Notes Tool
 
 This is a command-line tool for managing simple, single-line notes. It allows you to group notes into different collections, such as shopping_list, work_ideas, or movies_to_watch.
 How to Use It
